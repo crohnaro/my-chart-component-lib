@@ -1,0 +1,32 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+.next/
+out/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# NPM package-lock and Yarn lock files (uncomment to ignore)
+# package-lock.json
+# yarn.lock
